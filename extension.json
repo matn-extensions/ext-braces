@@ -1,0 +1,10 @@
+{
+  "id": "matn.ext.braces",
+  "name": "Rainbow Bracket Pairing",
+  "version": "1.0.0",
+  "author": "Matn Team",
+  "description": "Rainbow colored nesting brackets and matching bracket pair highlighting",
+  "category": "editor",
+  "type": "plugin",
+  "repository": "https://github.com/matn-extensions/ext-braces"
+}
